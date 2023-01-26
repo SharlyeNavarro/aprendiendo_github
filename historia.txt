@@ -1,0 +1,2 @@
+Hola mi nombre es Carlos
+Estoy aprendiendo Git y los comandos basicos de la consola
